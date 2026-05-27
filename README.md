@@ -107,7 +107,7 @@ Add Python to PATH
 # 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEUUSUARIO/Libras-Python.git
+git clone https://github.com/minacabu/Libras-Python.git
 cd Libras-Python
 ```
 
